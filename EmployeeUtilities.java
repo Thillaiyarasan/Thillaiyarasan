@@ -1,7 +1,7 @@
 package com.Thillaiyarasan.Assignment;
-import AssignmentMain.Employee;
-import AssignmentMain.Manager;
-import AssignmentMain.Developer;
+import com.Thillaiyarasan.Assignment.Employee;
+import com.Thillaiyarasan.Assignment.Manager;
+import com.Thillaiyarasan.Assignment.Developer;
 public class EmployeeUtilities {
 public static void printEmployeeDetails(Employee employee) {
 System.out.println("Employee Name: " + employee.getName());
