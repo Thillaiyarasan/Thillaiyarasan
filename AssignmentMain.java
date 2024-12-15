@@ -1,7 +1,7 @@
 package com.Thillaiyarasan.Assignment;
-import AssignmentMain.Manager;
-import AssignmentMain.Developer;
-import AssignmentMain.EmployeeUtilities;
+import com.Thillaiyarasan.Assignment.Manager;
+import com.Thillaiyarasan.Assignment.Developer;
+import com.Thillaiyarasan.Assignment.EmployeeUtilities;
 public class AssignmentMain {
 public static void main(String[] args) {
 Manager manager = new Manager("John", 101, 90000, "Sales");
